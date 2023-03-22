@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="style sheet" href="/style.css">
+    <title>Document</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="section 1"><img src="https://cdn.shopify.com/s/files/1/2337/7003/files/Festive_Unstitched_Desktop_9_1679148066.png?width=1300"></div>
+    <u><h1>WEDDING DRESSES:</h1></u></div>
+    <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/22_716b0515-32f6-4fac-b08c-b115c6e14a30.jpg?v=1671711369&width=285">
+      <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/1_2ea98e98-f602-47a7-8e5c-ea740780b025.jpg?v=1676706452&width=320">
+    </div><img src="https://cdn.shopify.com/s/files/1/2337/7003/products/1_0af61aff-438f-4f45-b786-6494afadfea3.jpg?v=1676706428&width=320">
+  <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/006_84533baf-ea4c-4a04-bf0c-e2a5f1bc43c5.jpg?v=1676444308&width=320">
+      <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/SANAZ_0000_006.jpg?v=1676445305&width=310">
+       <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/1_ee83ac66-79cc-4b59-98d9-badb52f68b18.jpg?v=1676445283&width=300">
+      <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/001_536640ee-57ad-435e-bb89-8c2b9df2de9a.jpg?v=1676445225&width=320">
+     <img src="https://cdn.shopify.com/s/files/1/2337/7003/products/005_07594def-6260-4dcb-91c3-ad72e60e3934.jpg?v=1676374479&width=320">
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
+</body>
+</html>
+banner img{ 
+          width: banner img{ 
+          width: 100;
+          padding: 0;
+         }
+
+
+
+div{
+   border-radius: 8cm;
+   border-color: black;
+}
